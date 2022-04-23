@@ -1,0 +1,24 @@
+my-nav{
+    background-color: rgb(192, 185, 254);
+}
+.logo-img{
+    width: 50px;
+}
+.navbar-light .navbar-nav .nav-link{
+    color: black;
+    opacity: 1;
+}
+.logo{
+    width: 100%;
+}
+.footer a{
+    font-size:2rem;
+    color: rgb(34, 46, 214);
+}
+.footer{
+    background-color: black;
+    padding: 20px;
+}
+.text{
+    border: 1px solid lightgray
+}
