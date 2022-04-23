@@ -13,11 +13,13 @@ my-nav{
 }
 .footer a{
     font-size:2rem;
-    color: rgb(34, 46, 214);
+    color: rgb(211, 19, 19);
+    margin-left: 10px;
 }
 .footer{
     background-color: black;
     padding: 20px;
+    margin-top: 10px;
 }
 .text{
     border: 1px solid lightgray
