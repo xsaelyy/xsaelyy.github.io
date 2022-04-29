@@ -1,0 +1,46 @@
+body{
+    margin: 0;
+    font-family: 'Exo 2', sans-serif;
+}
+.first{
+    background-image: url(banner.jpg);
+    height: 500px;
+    background-size: cover;
+    background-position: 50% 50% ;
+    color: white;
+    padding-top: 50px;
+}
+img{
+    width: 100%;
+}
+.hut{
+    background-image: url(the-hut-bg.png);
+    height: 350px;
+    background-size: cover;
+    background-position: center center;
+    color: white;
+    margin: 80px 0;
+}
+.hut .row{
+    height: 100%;   
+    background-color: rgba(0, 0, 0, 0.645);
+}
+.hhut{   
+    background-image: url(the-area.png);
+    height: 350px;
+    background-size: cover;
+    background-position: center center;
+    color: white;
+    margin: 80px 0;
+}
+.footer{
+    background-color: #5B6460;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    color: white;
+    margin-top: 20px;
+}
+.footer .d-flex p{
+    margin-left: 15px;
+
+}
