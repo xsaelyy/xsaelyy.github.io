@@ -1,0 +1,62 @@
+body{
+    margin: 0;
+    background-image: linear-gradient(to top, #2800ff, #006fff, #00a0ff, #00c7ff, #00e9ff);
+    transition: 1s;
+}
+.container{
+background-color: white;
+}
+.navbar{ 
+ color: rgba(144, 39, 151, 0.77);
+}
+.nav-item{
+    background-color: rgba(0, 0, 0, 0.336);
+    margin-right: 5px;
+}
+img{
+    width: 100%;
+    border-radius: 2%;
+}
+.iphonefon{
+    background-image: url(fon.png);
+    height: 500px;
+    background-size: cover;
+    background-position: 50% 50% ;
+    color: rgb(0, 0, 0);
+    padding-top: 50px;
+    text-align: center;
+    align-items: center;
+}
+h2{
+    padding: 20px;
+    font-family: 'Press Start 2P', cursive;
+}
+.title-opus{
+    font-family: 'Roboto', sans-serif;
+}
+.text-center{
+    text-align: center;
+    align-items: center;
+}
+.podval{
+    background-color: slategray;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    align-items: center;
+    margin-top: 20px;
+}
+.socio-item{
+    font-size: 50px;
+    color: black;
+    text-align: center;
+    transition: 0.6s;
+}
+a{
+    text-decoration: none;
+}
+.row{
+    margin: 50px 0px;
+}
+.contr{
+    background-color: slategray;
+}
